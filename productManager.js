@@ -149,7 +149,7 @@ const funcionPrincipal=async()=>{
 
 
         //MODIFICACIÓN DE PRODUCTO POR MEDIO DE SU ID
-        /*let productModif = await manager.updateProduct(2, {title: "Aros de luna largos", price: 9000, stock:12});
+        /*let productModif = await manager.updateProduct(2, {title: "Aros de luna largos", description: "Aros de plata 925", price: 9000, stock:12});
         console.log("Producto modificado: ", productModif);*/
 
 
