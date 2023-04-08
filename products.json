@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Anillo",
+    "description": "Anillo de plata 925",
+    "price": 8500,
+    "thumbnail": "https://e7.pngegg.com/pngimages/798/638/png-clipart-wedding-ring-jewellery-silver-gold-ring-love-gemstone.png",
+    "code": "xyz456",
+    "stock": 15,
+    "id": 1
+  },
+  {
+    "title": "Aros de luna",
+    "description": "Anillo de plata 925",
+    "price": 8500,
+    "thumbnail": "https://distribuidoradejoyas.cl/1236-thickbox_default/aros-luna-celta.jpg",
+    "code": "def567",
+    "stock": 15,
+    "id": 2
+  }
+]
